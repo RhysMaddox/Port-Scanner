@@ -4,7 +4,6 @@ This is a simple port scanning tool written in Python. It allows you to scan por
 
 ## Features
 
-- Scans TCP and UDP ports
 - Supports scanning specific ports or a range of ports
 - Displays protocols associated with open ports (optional)
 - Uses threading for faster scanning
