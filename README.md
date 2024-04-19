@@ -24,7 +24,8 @@ This is a simple port scanning tool written in Python. It allows you to scan por
 - Python 3.x
 - tqdm library (for the progress bar)
 
-You can install the tqdm library using pip:
+You can install the tqdm library using pip: pip install tqdm.
+
 
 ## Usage Warning
 
